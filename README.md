@@ -1,0 +1,2 @@
+# Predicting-Cardiovascular-Risk-in-Patients-with-Known-Risk-Factors
+This repository contains a predictive model, implemented in Python, for assessing the cardiovascular risk in patients with known risk factors. The model utilizes machine learning techniques to analyze a set of clinical and demographic features and generate a risk score that indicates the likelihood of developing cardiovascular diseases.
